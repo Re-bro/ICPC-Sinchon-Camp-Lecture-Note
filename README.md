@@ -1,7 +1,9 @@
 # ICPC-Sinchon-Camp-Lecture-Note
 2021 Summer ICPC Sinchon Algorithm Camp (Novice) Lecture Note
 
-2021 신촌연합 알고리즘 여름 캠프 초급반 강의자료입니다. 
+2021 신촌연합 알고리즘 여름 캠프 초급반 강의자료/영상입니다. 
+
+(짝수회차 강의는 다른 분이 진행하였습니다) 
 
 &nbsp; &nbsp;
 
